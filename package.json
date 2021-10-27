@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kaisekiwa/nodejs/issues"
   },
-  "homepage": "https://github.com/kaisekiwa/nodejs#readme"
+  "homepage": "https://github.com/kaisekiwa/nodejs#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
 }
