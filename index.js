@@ -23,5 +23,6 @@ readInterface.question('Enter your Score 0-100 : ', (ScoreInput) => {
     ScoreInput = Number(ScoreInput);
 
     console.log('Test Score xxx', ScoreInput)
+    console.log('Test Score ddd', ScoreInput)
 
 })
